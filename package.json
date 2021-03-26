@@ -1,0 +1,17 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.2",
+    "express": "^4.17.1",
+    "canvas": "^2.6.1",
+    "jimp": "^0.9.3",
+    "util": "^0.12.1",
+    "fs-nextra": "^0.4.7",
+    "canvas-constructor": "^3.1.0"
+  }
+}
