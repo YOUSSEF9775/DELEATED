@@ -1,1 +1,1 @@
-worker: node server.js
+worker: nuke server.js
