@@ -20,4 +20,4 @@ if(msg.content.toLowerCase().startsWith("" + "d")){
 }
 });
 
-nuke.login("ODA3NzgzNjE0MjYzMzI4ODEw.YF6iVg.BFtKtntfBNuGZjYW1T0LsQsx2ic");
+nuke.login("");
